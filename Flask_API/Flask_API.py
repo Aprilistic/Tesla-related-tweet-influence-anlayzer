@@ -14,7 +14,7 @@ stock_sentiment_classifier = pipeline(
 def get_influence(text):
     text = text.lower()
 
-    entities = ["model s", "model 3", "model x", "model y"]
+    entities = ["model s", "model 3", "model x", "model y", "solar roof"]
     for entity in entities:
         text = text.replace(entity, entity.replace(" ", "_"))
 
@@ -27,6 +27,7 @@ def get_influence(text):
         "elon",
         "musk",
         "gigafactory",
+        "cell",
         "fsd",
         "supercharger",
         "autopilot",
