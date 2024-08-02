@@ -1,8 +1,7 @@
 # Watt's Up with Tesla? A Twitter Sentiment Analysis
 
-[https://github.com/Aprilistic/Watt-s-Up-with-Tesla-A-Twitter-Sentiment-Analysis](https://github.com/Aprilistic/Watt-s-Up-with-Tesla-A-Twitter-Sentiment-Analysis)
-
-[BLACKBUN/tesla-related-unrelated-classification · Hugging Face](https://huggingface.co/BLACKBUN/tesla-related-unrelated-classification)
+### HuggingFace Repo
+[BLACKBUN/tesla-related-unrelated-classification](https://huggingface.co/BLACKBUN/tesla-related-unrelated-classification)
 
 # Objective
 
